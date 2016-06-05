@@ -1,0 +1,138 @@
+body{
+	background: white;
+	width: 80%;
+}
+
+.tine {
+
+width:20pt;
+height:20pt;
+z-index :2;
+}
+
+#k10 {
+		position: absolute;
+	    top: 152pt;
+	    left: 122pt;
+
+}
+#k12 {
+		position: absolute;
+	    top: 167pt;
+	    left: 150pt;
+
+
+}
+#k14 {
+		position: absolute;
+	    top: 185pt;
+	    left: 175pt;
+
+}
+#k16 {
+		position: absolute;
+	    top: 205pt;
+	    left: 201pt;
+
+
+}
+#k18 {
+		position: absolute;
+	    top: 220pt;
+	    left: 228pt;
+
+}
+
+#k20 {
+		position: absolute;
+	    top: 220pt;
+	    left: 265pt;
+
+
+}
+
+#k22 {
+		position: absolute;
+	    top: 220pt;
+	    left: 300pt;
+
+}
+
+#k24 {
+		position: absolute;
+	    top: 220pt;
+	    left: 340pt;
+
+}
+
+
+#k26 {
+		position: absolute;
+	    top: 120pt;
+	    left: 155pt;
+
+
+}
+
+#k28 {
+		position: absolute;
+	    top: 130pt;
+	    left: 180pt;
+
+
+}
+
+#k30 {
+		position: absolute;
+	    top: 135pt;
+	    left: 210pt;
+
+}
+
+#k32 {
+		position: absolute;
+	    top: 145pt;
+	    left: 235pt;
+
+
+}
+
+
+#k34 {
+		position: absolute;
+	    top: 150pt;
+	    left: 270pt;
+
+
+}
+#k36 {
+		position: absolute;
+	    top: 157pt;
+	    left: 300pt;
+
+
+
+
+}
+
+#k38 {
+		position: absolute;
+
+	    top: 160pt;
+	    left: 335pt;
+
+	}
+#kalimba{
+	visibility:visible;
+}
+
+#boom{
+	width:210pt;
+	height:90pt;
+	position: absolute;
+
+    top: 255pt;
+    left: 90pt;
+	z-index :2;
+transform: rotate(15deg);
+}
